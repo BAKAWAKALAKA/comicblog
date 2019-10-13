@@ -1,6 +1,6 @@
 ---
 title: About
-layout: def
+theme: jekyll-theme-cayman
 ---
 
 # About this project
